@@ -10,7 +10,7 @@ shareText: "Bekijk dit voorstel voor een veiliger internet, zonder de privacy te
 
 ## Voorwoord
 
-**Het internet moet veiliger worden gemaakt voor kinderen.** Echter, wetten zoals de [Online Safety Act](#) in het Verenigd Koninkrijk, de [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") voor de Europese Unie, en de [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in de Verenigde Staten riskeren langdurige schade toe te brengen aan zowel volwassenen als online platforms.
+**Het internet moet veiliger worden gemaakt voor kinderen.** Echter, wetten zoals de [Online Safety Act](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer) in het Verenigd Koninkrijk, de [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") voor de Europese Unie, en de [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in de Verenigde Staten riskeren langdurige schade toe te brengen aan zowel volwassenen als online platforms.
 
 Momenteel is het proces van identiteitsverificatie gebroken. Dit voorstel presenteert een nieuwe, wereldwijd toepasbare implementatie van identiteitsverificatie die de primaire doelen van deze wetten bereikt, terwijl de risico's van identiteitsdiefstal en privacy-schendingen aanzienlijk worden geëlimineerd.
 

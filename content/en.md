@@ -10,7 +10,7 @@ shareText: "Check out this proposal for a safer internet, without compromising p
 
 ## Preface
 
-**The internet needs to be made safer for children.** However, laws such as the [Online Safety Act](#) in the United Kingdom, the [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") for the European Union, and [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in the United States risk causing long-standing harm to adults and online platforms alike.
+**The internet needs to be made safer for children.** However, laws such as the [Online Safety Act](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer) in the United Kingdom, the [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") for the European Union, and [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in the United States risk causing long-standing harm to adults and online platforms alike.
 
 Presently, the process of identity verification is broken. This proposal presents a new, globally adoptable implementation of identity verification that accomplishes the primary goals of these laws, while substantially eliminating risks of identity theft and privacy violations.
 

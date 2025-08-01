@@ -10,7 +10,7 @@ shareText: "Schauen Sie sich diesen Vorschlag für ein sichereres Internet an, o
 
 ## Vorwort
 
-**Das Internet muss für Kinder sicherer gemacht werden.** Allerdings bergen Gesetze wie der [Online Safety Act](#) im Vereinigten Königreich, der [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") für die Europäische Union und der [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in den Vereinigten Staaten das Risiko, langfristigen Schaden für Erwachsene und Online-Plattformen gleichermaßen zu verursachen.
+**Das Internet muss für Kinder sicherer gemacht werden.** Allerdings bergen Gesetze wie der [Online Safety Act](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer) im Vereinigten Königreich, der [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") für die Europäische Union und der [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) in den Vereinigten Staaten das Risiko, langfristigen Schaden für Erwachsene und Online-Plattformen gleichermaßen zu verursachen.
 
 Derzeit ist der Prozess der Identitätsverifizierung fehlerhaft. Dieser Vorschlag präsentiert eine neue, global anwendbare Implementierung der Identitätsverifizierung, die die Hauptziele dieser Gesetze erreicht, während sie die Risiken von Identitätsdiebstahl und Datenschutzverletzungen erheblich eliminiert.
 

@@ -10,7 +10,7 @@ shareText: "Kolla in detta förslag för ett säkrare internet, utan att komprom
 
 ## Förord
 
-**Internet behöver göras säkrare för barn.** Men lagar som [Online Safety Act](#) i Storbritannien, [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") för Europeiska unionen, och [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) i USA riskerar att orsaka långvarig skada för både vuxna och online-plattformar.
+**Internet behöver göras säkrare för barn.** Men lagar som [Online Safety Act](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer) i Storbritannien, [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") för Europeiska unionen, och [Kids Online Safety Act](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) i USA riskerar att orsaka långvarig skada för både vuxna och online-plattformar.
 
 För närvarande är processen för identitetsverifiering trasig. Detta förslag presenterar en ny, globalt användbar implementering av identitetsverifiering som uppnår de primära målen för dessa lagar, samtidigt som den avsevärt eliminerar risker för identitetsstöld och integritetskränkningar.
 

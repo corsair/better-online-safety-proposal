@@ -10,7 +10,7 @@ shareText: "Découvrez cette proposition pour un internet plus sûr, sans compro
 
 ## Préface
 
-**Internet doit être rendu plus sûr pour les enfants.** Cependant, des lois telles que la [Loi sur la Sécurité en Ligne](#) au Royaume-Uni, la [Loi sur les Services Numériques](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") pour l'Union Européenne, et la [Loi sur la Sécurité en Ligne des Enfants](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) aux États-Unis risquent de causer des dommages durables aux adultes et aux plateformes en ligne.
+**Internet doit être rendu plus sûr pour les enfants.** Cependant, des lois telles que la [Loi sur la Sécurité en Ligne](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer) au Royaume-Uni, la [Loi sur les Services Numériques](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) ("DSA") pour l'Union Européenne, et la [Loi sur la Sécurité en Ligne des Enfants](https://www.congress.gov/bill/119th-congress/senate-bill/1748/text) aux États-Unis risquent de causer des dommages durables aux adultes et aux plateformes en ligne.
 
 Actuellement, le processus de vérification d'identité est défaillant. Cette proposition présente une nouvelle implémentation globalement adoptable de vérification d'identité qui accomplit les objectifs principaux de ces lois, tout en éliminant substantiellement les risques de vol d'identité et de violations de la vie privée.
 
