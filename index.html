@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Better Online Safety Manifesto</title>
+    <meta name="description" content="A proposal for a safer internet, without compromising your privacy." />
+    <meta name="color-scheme" content="light dark" />
+    
+    <!-- Prevent flash of unstyled content -->
+    <script>
+      (function() {
+        // Get saved theme or detect system preference
+        const savedTheme = localStorage.getItem('theme');
+        const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        const theme = savedTheme || systemTheme;
+        
+        // Apply theme immediately
+        document.documentElement.setAttribute('data-theme', theme);
+        document.documentElement.classList.add('no-flash');
+        
+        // Remove no-flash class after a short delay to enable transitions
+        setTimeout(() => {
+          document.documentElement.classList.remove('no-flash');
+        }, 100);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html> 
