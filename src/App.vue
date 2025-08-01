@@ -37,7 +37,7 @@
       
       <!-- Content -->
       <main class="content">
-        <div class="manifesto-text" v-html="renderedContent"></div>
+        <div class="proposal-text" v-html="renderedContent"></div>
       </main>
       
       <!-- Share Section -->

@@ -1,7 +1,7 @@
 {
-  "name": "online-safety-manifesto",
+  "name": "online-safety-proposal",
   "version": "1.0.0",
-  "description": "A minimalist manifesto for online safety",
+  "description": "A minimalist proposal for online safety",
   "type": "module",
   "scripts": {
     "dev": "vite",

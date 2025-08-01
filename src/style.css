@@ -160,31 +160,31 @@ body {
   margin-bottom: 3rem;
 }
 
-.manifesto-text {
+.proposal-text {
   font-size: 1.1rem;
   line-height: var(--line-height);
   color: var(--text-primary);
 }
 
-.manifesto-text p {
+.proposal-text p {
   margin-bottom: var(--paragraph-spacing);
 }
 
-.manifesto-text h2 {
+.proposal-text h2 {
   font-size: 1.5rem;
   font-weight: 600;
   margin: 2.5rem 0 1.5rem 0;
   color: var(--text-primary);
 }
 
-.manifesto-text h3 {
+.proposal-text h3 {
   font-size: 1.3rem;
   font-weight: 600;
   margin: 2rem 0 1rem 0;
   color: var(--text-primary);
 }
 
-.manifesto-text h5 {
+.proposal-text h5 {
   background-color: var(--bg-secondary);
   padding: 1rem 1.5rem;
   border-radius: 8px;
@@ -194,12 +194,12 @@ body {
   font-weight: 600;
 }
 
-.manifesto-text ul, .manifesto-text ol {
+.proposal-text ul, .proposal-text ol {
   margin: 1.5rem 0;
   padding-left: 2rem;
 }
 
-.manifesto-text li {
+.proposal-text li {
   margin-bottom: 0.5rem;
 }
 
@@ -323,7 +323,7 @@ body {
     font-size: 1.75rem;
   }
   
-  .manifesto-text {
+  .proposal-text {
     font-size: 1rem;
   }
   
